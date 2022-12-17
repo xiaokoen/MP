@@ -14,5 +14,5 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/blog/student-entity")
 public class StudentController {
-//
+
 }
